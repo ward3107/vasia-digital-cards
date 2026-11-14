@@ -1,0 +1,33 @@
+{
+  "name": "Example Business",
+  "names": {
+    "he": "עסק לדוגמה",
+    "ar": "متجر تجريبي",
+    "en": "Example Business"
+  },
+  "template": "rotating-bag",
+  "description": "Fictional example configuration.",
+  "publicUrl": null,
+  "qrAsset": null,
+  "whatsapp": "12025550124",
+  "phones": [
+    {
+      "label": "storePhone",
+      "display": "+1-202-555-0123",
+      "international": "+12025550123"
+    }
+  ],
+  "email": "hello@example.com",
+  "website": "https://example.com",
+  "address": {
+    "street": "Example street",
+    "city": "Example city",
+    "country": "Example country",
+    "mapsQuery": "Example Business"
+  },
+  "bag": {
+    "tagline": "Your business here",
+    "details": "Example products",
+    "alt": "Rotating example shopping bag"
+  }
+}

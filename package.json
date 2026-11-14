@@ -1,0 +1,14 @@
+{
+  "name": "vasia-digital-cards",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Shared source for VASIA customer digital business cards",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test scripts/build.test.mjs"
+  }
+}
