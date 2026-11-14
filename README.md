@@ -39,4 +39,4 @@ Optionally set `{"homeCard":"customer-slug"}` in `site.json` to redirect the roo
 
 The build emits a client-scoped manifest and offline service worker for Android and desktop installation. Share uses the device share sheet when available and falls back to copying the link. Accessibility preferences are stored on the visitor's device. The main card fits one mobile viewport; dialogs hold additional controls.
 
-The emitted Netlify headers enforce an external-script Content Security Policy. Keep `_headers` and `_redirects` when deploying the built folder manually. The Netlify project badge can also be disabled in Project configuration → General → Powered by Netlify badge.
+The emitted Netlify headers enforce an external-script Content Security Policy. Keep `_headers` and `_redirects` when deploying the built folder manually. Availability of hiding the Netlify badge depends on the team plan; check Project configuration → General → Powered by Netlify badge.
