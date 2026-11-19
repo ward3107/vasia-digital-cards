@@ -12,6 +12,7 @@ This repository contains reusable code and VASIA branding for customer digital b
 - `shared/card.css` and `shared/card.js`: shared styles, icons, contact actions and Hebrew/Arabic/English behavior.
 - `shared/vasia-logo-light.svg`: small VASIA footer logo linking to https://vasia.dev/ .
 - `examples/card.example.json`: fictional setup example; it is not an active customer.
+- `cards/demo/`: a published demo card with fictional details (reserved example phone numbers, `example.com`), used to try the card on a real phone at `/demo/`. It is not a customer; remove it when no longer needed.
 
 ## Build
 
