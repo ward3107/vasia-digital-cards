@@ -1,0 +1,38 @@
+{
+  "name": "Demo Shop",
+  "names": {
+    "he": "חנות לדוגמה",
+    "ar": "متجر تجريبي",
+    "en": "Demo Shop"
+  },
+  "template": "rotating-bag",
+  "description": "כרטיס ביקור דיגיטלי לדוגמה. כל הפרטים בדויים.",
+  "publicUrl": null,
+  "qrAsset": null,
+  "whatsapp": "12025550124",
+  "phones": [
+    {
+      "label": "storePhone",
+      "display": "+1-202-555-0123",
+      "international": "+12025550123"
+    },
+    {
+      "label": "mobile1",
+      "display": "+1-202-555-0124",
+      "international": "+12025550124"
+    }
+  ],
+  "email": "demo@example.com",
+  "website": "https://example.com",
+  "address": {
+    "street": "Example street 1",
+    "city": "Example city",
+    "country": "Example country",
+    "mapsQuery": "Example city"
+  },
+  "bag": {
+    "tagline": "Your business here",
+    "details": "כרטיס דמו · פרטים בדויים",
+    "alt": "שקית ממותגת מסתובבת"
+  }
+}
