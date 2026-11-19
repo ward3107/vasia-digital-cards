@@ -6,6 +6,11 @@
   NODE_VERSION = "24"
 
 [[headers]]
+  for = "/*/contact.vcf"
+  [headers.values]
+    Content-Type = "text/vcard; charset=utf-8"
+
+[[headers]]
   for = "/*"
   [headers.values]
     X-Content-Type-Options = "nosniff"
